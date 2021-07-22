@@ -4,6 +4,9 @@ Commission Keyboard 6Key for osu!
 * RGB Perkey
 * Atmega32U4
 * Can add Oled 0.91 monitor
+## Description
+* Opensource PCB
+* Kicad requirement 
 ## Layout
 ![Image of layout](https://cdn.discordapp.com/attachments/860603126151512084/860603172979736616/unknown.png)
 
